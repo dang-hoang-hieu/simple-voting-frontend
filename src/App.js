@@ -11,6 +11,9 @@ class App extends Component {
           <p>
             Hello this is simple Voting App
           </p>
+          <p>
+            udpated
+          </p>
 
         </header>
       </div>
